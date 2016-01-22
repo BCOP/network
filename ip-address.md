@@ -21,7 +21,7 @@ All platform documents should use these networks for consistency.
     * authentication: tacacs/radius
     * ssh jump box
     * software repository: http(s)/tftp/ftp
-    * telemetry: netflow/ipfix/slfow
+    * telemetry: netflow/ipfix/sflow
 
 # IPv6
   * core loopbacks
@@ -37,4 +37,4 @@ All platform documents should use these networks for consistency.
     * authentication: tacacs/radius
     * ssh jump box
     * software repository: http(s)/tftp/ftp
-    * telemetry: netflow/ipfix/slfow
+    * telemetry: netflow/ipfix/sflow
