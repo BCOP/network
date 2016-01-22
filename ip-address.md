@@ -17,15 +17,11 @@ All platform documents should use these networks for consistency.
     * snmp trap
     * dns
     * ntp
-    * tacacs
-    * radius
+    * syslog
+    * authentication: tacacs/radius
     * ssh jump box
-    * http(s)
-    * tftp
-    * ftp
-    * netflow
-    * ipfix
-    * slfow
+    * software repository: http(s)/tftp/ftp
+    * telemetry: netflow/ipfix/slfow
 
 # IPv6
   * core loopbacks
@@ -37,12 +33,8 @@ All platform documents should use these networks for consistency.
     * snmp trap
     * dns
     * ntp
-    * tacacs
-    * radius
+    * syslog
+    * authentication: tacacs/radius
     * ssh jump box
-    * http(s)
-    * tftp
-    * ftp
-    * netflow
-    * ipfix
-    * slfow
+    * software repository: http(s)/tftp/ftp
+    * telemetry: netflow/ipfix/slfow
